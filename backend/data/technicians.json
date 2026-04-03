@@ -1,0 +1,5 @@
+[
+  {"name": "Raj", "distance": 2, "rating": 4.5, "jobs": 1, "available": true},
+  {"name": "Amit", "distance": 1, "rating": 2.5, "jobs": 2, "available": true},
+  {"name": "Suresh", "distance": 3, "rating": 4.8, "jobs": 0, "available": true}
+]
